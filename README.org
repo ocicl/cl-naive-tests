@@ -7,6 +7,6 @@ designed to work well for gitlab CI.
 
 |---------+---------------------------------------------------|
 | source  | git:https://gitlab.com/naive-x/cl-naive-tests.git |
-| commit  | 25825fc                                           |
+| commit  | 0bcf374                                           |
 | systems | cl-naive-tests                                    |
 |---------+---------------------------------------------------|
